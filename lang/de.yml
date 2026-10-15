@@ -1,0 +1,9 @@
+de:
+  SilverShop\ProductIdentity\GtinValidator:
+    INVALID: 'Geben Sie eine gültige EAN/GTIN ein: 8, 12, 13 oder 14 Ziffern mit korrekter Prüfziffer.'
+    GTINLabel: 'EAN / GTIN'
+    GTINDesc: 'Barcode-Nummer (EAN-8, UPC-A, EAN-13 oder GTIN-14). Nur Ziffern; die Prüfziffer wird validiert.'
+    GTINDescVariation: 'Barcode für diese spezielle Variante (EAN-8, UPC-A, EAN-13 oder GTIN-14). Nur Ziffern; die Prüfziffer wird validiert. Leer lassen, um die GTIN des Produkts zu verwenden.'
+    MPNLabel: 'MPN (Herstellerteilenummer)'
+    MPNDesc: 'Die Herstellerteilenummer, sofern vorhanden.'
+    MPNDescVariation: 'Herstellerteilenummer für diese Variante. Leer lassen, um die MPN des Produkts zu verwenden.'

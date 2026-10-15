@@ -1,0 +1,9 @@
+fr:
+  SilverShop\ProductIdentity\GtinValidator:
+    INVALID: 'Saisissez un EAN/GTIN valide : 8, 12, 13 ou 14 chiffres avec une clé de contrôle correcte.'
+    GTINLabel: 'EAN / GTIN'
+    GTINDesc: 'Numéro de code-barres (EAN-8, UPC-A, EAN-13 ou GTIN-14). Chiffres uniquement ; la clé de contrôle est vérifiée.'
+    GTINDescVariation: 'Code-barres de cette variante spécifique (EAN-8, UPC-A, EAN-13 ou GTIN-14). Chiffres uniquement ; la clé de contrôle est vérifiée. Laissez vide pour utiliser le GTIN du produit.'
+    MPNLabel: 'MPN (référence fabricant)'
+    MPNDesc: 'La référence fabricant, le cas échéant.'
+    MPNDescVariation: 'Référence fabricant de cette variante. Laissez vide pour utiliser le MPN du produit.'

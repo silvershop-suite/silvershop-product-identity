@@ -1,0 +1,11 @@
+---
+Name: silvershop-product-identity
+After:
+  - silvershop-extensions
+---
+SilverShop\Page\Product:
+  extensions:
+    - SilverShop\ProductIdentity\Extension\ProductIdentityExtension
+SilverShop\Model\Variation\Variation:
+  extensions:
+    - SilverShop\ProductIdentity\Extension\VariationIdentityExtension
