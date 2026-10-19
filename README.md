@@ -21,7 +21,7 @@ search-by-barcode and import/export — so it is owned by none of them. Every co
 ## Installation
 
 ```bash
-composer require silvershop/product-identity
+composer require silvershop-suite/product-identity
 ```
 
 Then run `dev/build?flush=all`.

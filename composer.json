@@ -1,5 +1,5 @@
 {
-    "name": "silvershop/product-identity",
+    "name": "silvershop-suite/product-identity",
     "description": "Product-identity master data for SilverShop (CMS 6): EAN/GTIN and MPN on Product and Variation, with a reusable GS1 check-digit validator and CMS validation. A dependency-light foundation consumed (guarded) by the product-feed, catalog-data, SEO and conversion-tracking modules.",
     "type": "silverstripe-vendormodule",
     "keywords": ["silverstripe", "silvershop", "ecommerce", "gtin", "ean", "mpn", "barcode", "product-identity", "gs1"],
