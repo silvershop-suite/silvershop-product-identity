@@ -1,8 +1,8 @@
 # SilverShop Product Identity
 
-[![CI](https://github.com/silvershop/silvershop-product-identity/actions/workflows/ci.yml/badge.svg)](https://github.com/silvershop/silvershop-product-identity/actions/workflows/ci.yml)
+[![CI](https://github.com/silvershop-suite/silvershop-product-identity/actions/workflows/ci.yml/badge.svg)](https://github.com/silvershop-suite/silvershop-product-identity/actions/workflows/ci.yml)
 
-Product-identity **master data** for [SilverShop](https://github.com/silvershop/silvershop) on Silverstripe CMS 6:
+Product-identity **master data** for [SilverShop](https://github.com/silvershop/silvershop-core) on Silverstripe CMS 6:
 **EAN/GTIN** and **MPN** fields on both `Product` and `Variation`, with a reusable GS1 check-digit validator and CMS
 validation.
 
